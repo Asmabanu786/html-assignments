@@ -1,0 +1,14 @@
+arr1=[];
+arr2=new Array();
+arr3=["asma","banu","sanu","vidya"];
+console.log(arr3);
+arr1.push("mom");
+arr1.push("dad");
+arr1.push("momdad");
+arr1.push("babu");
+arr1.push("kamal");
+console.log(arr1);
+arr1.pop();
+console.log(arr1);
+arr3.splice(2,3);
+console.log(arr3);
